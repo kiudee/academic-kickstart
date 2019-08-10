@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uni-paderborn.de/en/university/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include preference learning, Gaussian processes, Bayesian optimization and artificial intelligence.
 
 interests:
 - Learning to Rank and Choose
