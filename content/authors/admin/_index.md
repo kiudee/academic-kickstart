@@ -28,9 +28,6 @@ interests:
 
 education:
   courses:
-<!--   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012 -->
   - course: MSc in Computer Science
     institution: Paderborn University
     year: 2015
